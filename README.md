@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I study Data Science and Artificial Intelligence at Leeds Beckett University!
 <!--
 **SalmanSaeed55/SalmanSaeed55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
