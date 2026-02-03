@@ -1,5 +1,14 @@
-## Hi there 👋
-I study Data Science and Artificial Intelligence at Leeds Beckett University!
+## Hi there 👋 I'm Salman Saeed!
+I study _***Data Science and Artificial Intelligence***_ at Leeds Beckett University!
+
+## Connect with Me
+[LinkedIn - Salman Saeed](www.linkedin.com/in/salmansaeed1359)
+
+## Previous Work
+While not professional, here are a few projects I've worked on in the past 👇
+- ***2D Platformer Game "The Explorer" [A Levels]*** - a 2D game built using Unity and C#, focusing on a working difficulty system, repsonisve controls and a measured scoring system
+- ***Frontend Development*** - utilising HTML, CSS and JS to develop responsive websites
+- ***UI/UX Design*** - designing user-centric interfaces for various screen sizes
 <!--
 **SalmanSaeed55/SalmanSaeed55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
