@@ -13,12 +13,17 @@ Here, I aim to post once in a while to showcase my learning journey, and how it 
 
 ## Current Work
 
+### Work at University
+
 Currently, I am a full time student. Within this, we have been covering:
 - ***R Programming*** for data analysis and visualisation
 - ***SQL in Oracle APEX*** - using SQL to create relational tables, and using SQL Queries to gain meaningful insights
 - ***Python Programming*** - as a great multi-purpose programming tool
 
-Aside from formal studies, I am taking a Python Masterclass course on [Udemy](https://www.udemy.com/) to enhance my ability to use tools used in industry. The repo for this is pinned on my profile!
+### Personal Development
+- **Learn Python Programming Masterclass** | **Completed** | [Udemy](https://www.udemy.com/) | An in-depth course on Python, covering areas including OOP, functions, file handling and database integration - Repo pinned to profile
+- **100 Days of Code™: The Complete Python Pro Bootcamp** | **In Progress** | [Udemy](https://www.udemy.com/) | A course to build on fundamentals of Python, focusing on a project-based approach, increasing in difficulty and logic each day - Repo pinned to profile
+- **Master statistics & machine learning: intuition, math, code** | **In Progress** | [Udemy](https://www.udemy.com/) | A statistics course tailored specifically to Data Science and AI, with practical applications in Python and MATLAB.
 
 ## Previous Work
 While not professional, here are a few projects I've worked on in the past 👇
