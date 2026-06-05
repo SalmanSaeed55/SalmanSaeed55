@@ -23,7 +23,7 @@ Currently, I am a full time student. Within this, we have been covering:
 ### Personal Development
 - **Learn Python Programming Masterclass** | **Completed** | [Udemy](https://www.udemy.com/) | An in-depth course on Python, covering areas including OOP, functions, file handling and database integration - Repo pinned to profile
 - **100 Days of Code™: The Complete Python Pro Bootcamp** | **In Progress** | [Udemy](https://www.udemy.com/) | A course to build on fundamentals of Python, focusing on a project-based approach, increasing in difficulty and logic each day - Repo pinned to profile
-- **Master statistics & machine learning: intuition, math, code** | **In Progress** | [Udemy](https://www.udemy.com/) | A statistics course tailored specifically to Data Science and AI, with practical applications in Python and MATLAB.
+- **Master statistics & machine learning: intuition, math, code** | **In Progress** | [Udemy](https://www.udemy.com/) | A statistics course tailored specifically to Data Science and AI, with practical applications in Python and MATLAB - Repo pinned to profile
 
 ## Previous Work
 While not professional, here are a few projects I've worked on in the past 👇
